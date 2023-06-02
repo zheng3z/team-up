@@ -1,4 +1,4 @@
-# Q-team033-DianasDog
+# Full Stack Project Introduction
 
 ## Title: Teamup! A Teammate Matching Platform
 
